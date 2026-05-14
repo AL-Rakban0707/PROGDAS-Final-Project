@@ -1,10 +1,12 @@
 # PROGDAS-Final-Project
 
-Kelas: 02
-Kelompok: 6
-SDG : 14 (Life Below Water)
-Judul :  Underwater Ecosystem and living condition checker
-Deskripsi : Program ini bertujuan untuk mendeteksi kualitas dan memprediksi kondisi ekosistem suatu perairan seperti sungai, dengan menganalisis data-data tertentu seperti warna air, kadar PH, dll; dan akan memberikan notifikasi apabila perlu ada tindakan tertentu
+Kelas: 02  
+Kelompok: 6  
+SDG: 14 (Life Below Water)  
+Judul:  Underwater Ecosystem and living condition checker  
+Deskripsi: Program ini bertujuan untuk mendeteksi kualitas dan memprediksi kondisi ekosistem suatu perairan seperti sungai, danau, reservasi air minum, dan ternak lele dengan menganalisis data-data tertentu yaitu kadar PH, suhu, oksigen yang terlaut, konduktivitas listrik, kekeruhan air, dan juga warna air.
+
+Dari hasil data yang diperoleh indikator-indikator tersebut, kita akan memasukkan semua data yang pada akhirnya menghasilkan nilai index air dan menaruh range nilai dengan level prioritas berbeda apabila diperlukan tindakan tertentu.
 
 Anggota Kelompok:
 1. Arafah Akbar Satria
